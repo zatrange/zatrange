@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zatrange</h1>
 <h3 align="center">A Passionate Software Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zatrange&label=Profile%20views&color=0e75b6&style=flat" alt="zatrange" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zatrange" alt="zatrange" /></a> </p>
 
